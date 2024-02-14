@@ -1,0 +1,41 @@
+body{
+    background: #EAAC88;
+}
+
+.container2{
+  margin-top: 30vh;
+  margin-left: 10%;
+}
+
+.carousel {
+    max-width: 70%;
+    position: relative;
+    margin: auto;
+}
+
+img{
+   max-width: 100%;
+}
+
+.carousel .item {
+    max-height: 525px;
+}
+
+.card{
+    
+    margin-top: 30%;
+    margin-left: 15%;
+}
+
+
+section{
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background: orangered;
+}
+
+.card1{
+    display: flex;
+    margin-top: 80%;
+}
